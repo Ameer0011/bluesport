@@ -3,7 +3,7 @@
     {
       "id": 1,
       "name": "BLUE SPORT 1",
-      "logo_url": "https://i.postimg.cc/dVNxgBLJ/20260603-150404.png",
+      "logo_url": "https://bluesport.fun/thumbnail.png",
       "is_active": true,
       "servers": [
         { "label": "AUTO", "url": "https://prod-fastly-eu-central-1.video.pscp.tv/Transcoding/v1/hls/adqwnKUWAbRb-KgQKN0S0hmoyzkFJOZE3flgiHgStB44ICsdEhpglGPQOrJ1oICHLRXjwAj_TJdFykOQvU574w/non_transcode/eu-central-1/periscope-replay-direct-prod-eu-central-1-public/master_dynamic_highlatency.m3u8?type=live" },
@@ -16,7 +16,7 @@
     {
       "id": 2,
       "name": "BLUE SPORT 2",
-      "logo_url": "https://i.postimg.cc/dVNxgBLJ/20260603-150404.png",
+      "logo_url": "https://bluesport.fun/thumbnail.png",
       "is_active": true,
       "servers": [
         { "label": "AUTO", "url": "https://prod-fastly-eu-central-1.video.pscp.tv/Transcoding/v1/hls/WsL3YYDwQfsnHhAAMVWpF1-vvrQhpPc2KnPxE5l6ajPGAIWhz4sfYgkPl6AFDJLeV2YGTS6q6I6ZvaH-5JOQ_Q/non_transcode/eu-central-1/periscope-replay-direct-prod-eu-central-1-public/master_dynamic_highlatency.m3u8?type=live" },
@@ -29,7 +29,7 @@
     {
       "id": 3,
       "name": "BLUE SPORT 3",
-      "logo_url": "https://i.postimg.cc/dVNxgBLJ/20260603-150404.png",
+      "logo_url": "https://bluesport.fun/thumbnail.png",
       "is_active": true,
       "servers": [
         { "label": "AUTO", "url": "https://prod-fastly-eu-central-1.video.pscp.tv/Transcoding/v1/hls/zfIdmopej5G4pVw28bDU0A27WYGAHBYR3LseP17-gOlvp_Xy5dyoa66CTRyFf_KrwHHCBptHlmbqtmFezyO3AQ/non_transcode/eu-central-1/periscope-replay-direct-prod-eu-central-1-public/master_dynamic_delta.m3u8?type=live" },

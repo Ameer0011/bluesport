@@ -48,7 +48,7 @@
             "servers": [
                 {
                     "label": "AUTO",
-                    "url": "https://prod-fastly-eu-central-1.video.pscp.tv/Transcoding/v1/hls/zfIdmopej5G4pVw28bDU0A27WYGAHBYR3LseP17-gOlvp_Xy5dyoa66CTRyFf_KrwHHCBptHlmbqtmFezyO3AQ/non_transcode/eu-central-1/periscope-replay-direct-prod-eu-central-1-public/master_dynamic_highlatency.m3u8?type=live"
+                    "url": "https://embed-cloudfront.wistia.com/deliveries/d20084aa5e3e586043d4b5b2744d3c485ad5d45b.m3u8"
                 }
             ]
         }

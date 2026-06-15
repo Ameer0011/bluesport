@@ -3,7 +3,7 @@
         {
             "id": 1,
             "name": "BLUE SPORT 1",
-            "logo_url": "https://bluesport.fun/thumbnail.png",
+            "logo_url": "https://bluesport.live/thumbnail.png",
             "is_active": true,
             "servers": [
                 {
@@ -15,7 +15,7 @@
         {
             "id": 2,
             "name": "BLUE SPORT 2",
-            "logo_url": "https://bluesport.fun/thumbnail.png",
+            "logo_url": "https://bluesport.live/thumbnail.png",
             "is_active": true,
             "servers": [
                 {
@@ -43,7 +43,7 @@
         {
             "id": 3,
             "name": "BLUE SPORT 3",
-            "logo_url": "https://bluesport.fun/thumbnail.png",
+            "logo_url": "https://bluesport.live/thumbnail.png",
             "is_active": true,
             "servers": [
                 {

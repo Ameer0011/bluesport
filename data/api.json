@@ -64,7 +64,19 @@
             "servers": [
                 {
                     "label": "AUTO",
-                    "url": "https://embed-cloudfront.wistia.com/deliveries/d20084aa5e3e586043d4b5b2744d3c485ad5d45b.m3u8"
+                    "url": "https://prod-fastly-eu-west-3.video.pscp.tv/Transcoding/v1/hls/8nSRzOt53ZOtZzOH-kctlAzcl7WK1Ce6HuKpK0Egjsi7rcyhiekb-O4f-EYkTkSo4ZWDim8ZLbyOZXDToKPyOw/non_transcode/eu-west-3/periscope-replay-direct-prod-eu-west-3-public/master_dynamic_highlatency.m3u8?type=live"
+                },
+                {
+                    "label": "224p",
+                    "url": "https://prod-fastly-eu-west-3.video.pscp.tv/Transcoding/v1/hls/8nSRzOt53ZOtZzOH-kctlAzcl7WK1Ce6HuKpK0Egjsi7rcyhiekb-O4f-EYkTkSo4ZWDim8ZLbyOZXDToKPyOw/transcode/eu-west-3/periscope-replay-direct-prod-eu-west-3-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ18yMjRwMzBfMTAiLCJIZWlnaHQiOjIyNCwiS2JwcyI6MzAwLCJUcmFuc2NvZGVBdWRpbyI6dHJ1ZSwiV2lkdGgiOjQwMH0.7bJSUVkCCWY9mtayJTkJOzF7SBt0W-fOgmaXO9-OjnM/dynamic_highlatency.m3u8?type=live"
+                },
+                {
+                    "label": "360p",
+                    "url": "https://prod-fastly-eu-west-3.video.pscp.tv/Transcoding/v1/hls/8nSRzOt53ZOtZzOH-kctlAzcl7WK1Ce6HuKpK0Egjsi7rcyhiekb-O4f-EYkTkSo4ZWDim8ZLbyOZXDToKPyOw/transcode/eu-west-3/periscope-replay-direct-prod-eu-west-3-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ18zMjBwMzBfMTAiLCJIZWlnaHQiOjMyMCwiS2JwcyI6NjAwLCJUcmFuc2NvZGVBdWRpbyI6dHJ1ZSwiV2lkdGgiOjU2OH0.es_XpNv3J12hFXU4WrCwmH28GmToYAPDPdT_EjerHCU/dynamic_highlatency.m3u8?type=live"
+                },
+                {
+                    "label": "480p",
+                    "url": "https://prod-fastly-eu-west-3.video.pscp.tv/Transcoding/v1/hls/8nSRzOt53ZOtZzOH-kctlAzcl7WK1Ce6HuKpK0Egjsi7rcyhiekb-O4f-EYkTkSo4ZWDim8ZLbyOZXDToKPyOw/transcode/eu-west-3/periscope-replay-direct-prod-eu-west-3-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ180ODBwMzBfMTAiLCJIZWlnaHQiOjQ4MCwiS2JwcyI6MTIwMCwiV2lkdGgiOjg0OH0.0LJi1usWbiPqp0QIcpq7Md5g1WxvJcPqVWNqsKw5nhA/dynamic_highlatency.m3u8?type=live"
                 }
             ]
         }
